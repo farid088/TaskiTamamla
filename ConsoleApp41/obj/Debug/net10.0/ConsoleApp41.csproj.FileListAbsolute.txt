@@ -1,0 +1,15 @@
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.AssemblyInfoInputs.cache
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.AssemblyInfo.cs
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.csproj.CoreCompileInputs.cache
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.sourcelink.json
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\bin\Debug\net10.0\ConsoleApp41.exe
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\bin\Debug\net10.0\ConsoleApp41.deps.json
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\bin\Debug\net10.0\ConsoleApp41.runtimeconfig.json
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\bin\Debug\net10.0\ConsoleApp41.dll
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\bin\Debug\net10.0\ConsoleApp41.pdb
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.dll
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\refint\ConsoleApp41.dll
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.pdb
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ConsoleApp41.genruntimeconfig.cache
+C:\Users\Farid Nasibov\source\repos\TaskiTamamla\ConsoleApp41\obj\Debug\net10.0\ref\ConsoleApp41.dll

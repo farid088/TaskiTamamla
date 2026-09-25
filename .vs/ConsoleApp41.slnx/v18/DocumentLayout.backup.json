@@ -1,10 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\faridin\\source\\repos\\ConsoleApp41\\",
+  "WorkspaceRootPath": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03AE05E6-7C5F-4B56-9900-C63BD6E3E53F}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\faridin\\source\\repos\\consoleapp41\\consoleapp41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03AE05E6-7C5F-4B56-9900-C63BD6E3E53F}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\productextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\productcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\memorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\memorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\models\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\enum\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\enum\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\exceptions\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\exceptions\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|c:\\users\\farid nasibov\\source\\repos\\taskitamamla\\consoleapp41\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C106B8-BE8A-CB1E-86C0-1757C8147B43}|ConsoleApp41\\ConsoleApp41.csproj|solutionrelative:consoleapp41\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +78,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp41\\Program.cs*",
+              "ViewState": "AgIAAJABAAAAAAAAAAAkwHYCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:08:45.107Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Order.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:43:16.623Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\faridin\\source\\repos\\ConsoleApp41\\ConsoleApp41\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp41\\Program.cs",
-              "ToolTip": "C:\\Users\\faridin\\source\\repos\\ConsoleApp41\\ConsoleApp41\\Program.cs",
-              "RelativeToolTip": "ConsoleApp41\\Program.cs",
+              "DocumentIndex": 9,
+              "Title": "MemoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\MemoryTest.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\MemoryTest.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\MemoryTest.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\MemoryTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T16:08:45.107Z",
+              "WhenOpened": "2026-09-25T16:35:41.597Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\IRepository.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T16:17:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductExtensions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\ProductExtensions.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductExtensions.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\ProductExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:34:43.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\StringExtensions.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:33:06.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductCollection.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\ProductCollection.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductCollection.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\ProductCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:30:38.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\OrderService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\OrderService.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:18:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ProductService.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:32:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:40:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:34:55.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ClothingProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ClothingProduct.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\ClothingProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:32:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElectronicProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ElectronicProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\ElectronicProduct.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\ElectronicProduct.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\ElectronicProduct.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:30:31.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Models\\Product.cs",
+              "RelativeToolTip": "ConsoleApp41\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:26:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Exceptions\\Exception.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Exceptions\\Exception.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Exceptions\\Exception.cs",
+              "RelativeToolTip": "ConsoleApp41\\Exceptions\\Exception.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:22:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Enum\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Enum\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Enum\\ProductCategory.cs",
+              "RelativeToolTip": "ConsoleApp41\\Enum\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA8wAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:20:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ConsoleApp41\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Farid Nasibov\\source\\repos\\TaskiTamamla\\ConsoleApp41\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "ConsoleApp41\\Enum\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:20:01.416Z"
             }
           ]
         }
